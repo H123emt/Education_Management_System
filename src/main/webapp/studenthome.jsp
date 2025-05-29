@@ -102,8 +102,8 @@
         <ul>
             <li><a href="/exam">Take a new exam</a></li>
             <li><a href="/viewresult">View your exam results</a></li>
-            <li><a href="/video">Access tutorial videos</a></li>
-            <li><a href="/doubt">Ask a question</a></li>
+            <li><a href="">Access tutorial videos</a></li>
+            <li><a href="">Ask a question</a></li>
         </ul>
     </div>
 

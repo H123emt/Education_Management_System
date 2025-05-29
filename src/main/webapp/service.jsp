@@ -144,11 +144,11 @@
                         <h4 class="information_text">Helpful Links</h4>
                         <div class="footer_menu">
                            <ul>
-                              <li><a href="index.html">Home</a></li>
-                              <li><a href="about.html">About</a></li>
-                              <li><a href="services.html">Services</a></li>
-                              <li><a href="blog.html">Blog</a></li>
-                              <li><a href="news.html">News</a></li>
+                              <li><a href="/">Home</a></li>
+                              <li><a href="/about">About</a></li>
+                              <li><a href="/service">Services</a></li>
+                              <li><a href="/blog">Blog</a></li>
+                              <li><a href="/">News</a></li>
                            </ul>
                         </div>
                      </div>
