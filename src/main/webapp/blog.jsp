@@ -129,7 +129,7 @@
                   </div>
                   <div class="col-lg-3 col-md-6">
                      <div class="information_main">
-                        <div class="footer_logo"><a href="index.html"><img src="images/footer-logo.png"></a></div>
+                        <div class="footer_logo"><a href="#"><img src="images/footer-logo.png"></a></div>
                      </div>
                   </div>
                </div>

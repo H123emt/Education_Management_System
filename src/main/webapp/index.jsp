@@ -39,7 +39,7 @@
          <div class="header_bg">
             <div class="container">
                <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                  <a class="logo" href="index.html"><img src="images/logo.png"></a>
+                  <a class="logo" href="#"><img src="images/logo.png"></a>
                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                   </button>
@@ -203,7 +203,7 @@
                      <div class="image_main">
                         <img src="https://futureteachinstitute.com/wp-content/uploads/2023/07/html-css-beginners.jpg" class="image_8" style="width:100%">
                         <div class="text_main">
-                           <div class="seemore_text">html,css</div>
+                           <div class="seemore_text">HTML CSS</div>
                         </div>
                      </div>
                   </div>
@@ -376,7 +376,7 @@
                   </div>
                   <div class="col-lg-3">
                      <div class="information_main">
-                        <div class="footer_logo"><a href="index.html"><img src="images/footer-logo.png"></a></div>
+                        <div class="footer_logo"><a href="#"><img src="images/footer-logo.png"></a></div>
                      </div>
                   </div>
                </div>
