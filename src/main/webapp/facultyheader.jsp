@@ -126,7 +126,7 @@
         </div>
 
         <div class="dropdown">
-            <img src="https://github.com/mdo.png" alt="Profile Picture">
+            <img src="https://templates.joomla-monster.com/joomla30/jm-news-portal/components/com_djclassifieds/assets/images/default_profile.png" alt="Profile Picture">
             <div class="dropdown-content">
                 <a href="\faculty_profile">Profile</a>
                 <hr>

@@ -96,7 +96,7 @@
         </ul>
 
         <div class="custom-dropdown">
-          <img src="https://github.com/mdo.png" alt="mdo" />
+          <img src="https://templates.joomla-monster.com/joomla30/jm-news-portal/components/com_djclassifieds/assets/images/default_profile.png" alt="mdo" />
           <div class="custom-dropdown-content">
             <a href="\profile">Profile</a>
             <hr />
