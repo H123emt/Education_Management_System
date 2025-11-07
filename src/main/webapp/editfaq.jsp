@@ -159,6 +159,7 @@
         }
     </style>
 </head>
+
 <body>
     <c:forEach var="viewfaq" items="${view_faq}">
         <form method="post" action="updatefaq">
@@ -182,7 +183,7 @@
 
 
 
-<%-- <%@ taglib prefix ="c" uri="http://java.sun.com/jsp/jstl/core" %>
+    <%@ taglib prefix ="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <c:forEach var="viewfaq" items="${view_faq}">
     <form method="post" action="updatefaq">
        Slno: <input type="text" name="slno" value="${viewfaq.slno}" readonly/>
@@ -195,4 +196,4 @@
         <input type="submit" name="btn" value="update"/>
 
     </form>
-</c:forEach> --%>
+</c:forEach>
