@@ -70,10 +70,10 @@
                             <a href="/login"><button type="button" class="btn btn-outline-dark me-2">Login</button></a>
                             <a href="/register"><button type="button" class="btn btn-warning">Sign-up</button></a>
                         </div>
-                           <%-- <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                            <li><a href="#"><img src="images/fb-icon.png"></a></li>
                            <li><a href="#"><img src="images/twitter-icon.png"></a></li>
                            <li><a href="#"><img src="images/linkedin-icon.png"></a></li>
-                           <li><a href="#"><img src="images/instagram-icon.png"></a></li> --%>
+                           <li><a href="#"><img src="images/instagram-icon.png"></a></li> 
                         </ul>
                      </div>
                   </div>
@@ -170,7 +170,7 @@
       <!-- services section start -->
       <div class="services_section layout_padding">
          <div class="container">
-            <h1 class="services_taital"><span style="color:#">Our</span> Courses</h1>
+            <h1 class="services_taital">Our Courses</h1>
             <div class="services_section_2">
                <div class="row">
                   <div class="col-md-6">
